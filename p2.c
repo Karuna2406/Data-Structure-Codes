@@ -2,6 +2,7 @@
 #include<stdbool.h>
 #include<malloc.h>
 
+
 long long solve (int N, int start, int finish, int* Ticket_cost){
     start--;
     finish--;
